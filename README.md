@@ -8,3 +8,6 @@ How to run
 3. docker run -p 80:3000 bun-image
 
 
+IP http://54.169.182.219/
+
+
