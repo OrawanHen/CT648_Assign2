@@ -3,5 +3,8 @@
 
 
 How to run
-1. sudo docker build -t bun-image .
-2. docker run -p 80:3000 bun-image
+1. git clone https://github.com/OrawanHen/CT648_Assign2.git
+2. sudo docker build -t bun-image .
+3. docker run -p 80:3000 bun-image
+
+
